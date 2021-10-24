@@ -1,18 +1,18 @@
 ---
-title: This is my second post.
-description: This is a post on My Blog about leveraging agile frameworks.
-date: 2018-07-04
+title: Cried a River
+description: A story from our recent episode.
+date: 2021-10-23
 tags:
-  - number 2
+  - Dogs
+  - Math
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-## Section Header
+Dogs are capable of more than most people think. I saw my dog reading my school books. I swear, it is true. I even left a math problem on the chalkboard. He solved it! I did the same, and he solved that one, too. I went from being really upset that I couldn’t get him to stop licking me to feeling really proud that he could do it. It’s great that he knows how to do math, too. You can teach them a lot of things.
+
+They’re best friends forever. Just because your dog is supposed to eat dinner and go to bed doesn’t mean that he doesn’t love you, too. When we were staying at my parents’ house a couple years ago, they were having some of the cable removed. My mom got a scanner and did some work for us. My dad took the opportunity to teach my sister and I some gymnastics.
+
+## Links to Other Stories
 
 <a href="{{ '/posts/firstpost/' | url }}">First post</a>
 <a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.

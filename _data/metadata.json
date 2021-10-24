@@ -1,21 +1,21 @@
 {
-  "title": "podcast-site",
-  "url": "https://example.com/",
+  "title": "Chapter Bi-Weekly",
+  "url": "https://stoic-swirles-34fb96.netlify.app/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Stories taken from the minds of those who maybe shouldn't share stories.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Stories taken from the minds of those who maybe shouldn't share stories.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "ttps://stoic-swirles-34fb96.netlify.app/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://stoic-swirles-34fb96.netlify.app/feed/feed.json"
   },
   "author": {
     "name": "Podcast Overlord",
     "email": "podcastoverlord@fakeemail.com",
-    "url": "https://fakewebsite.com/about-me/"
+    "url": "https://stoic-swirles-34fb96.netlify.app/about-me/"
   }
 }
